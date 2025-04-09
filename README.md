@@ -1,3 +1,17 @@
+WeatherApp
+
+A simple and clean weather application that provides real-time weather data for any city worldwide. Built using modern web technologies, this app is designed to be fast, responsive, and user-friendly.
+
+Features
+	•	Get current weather conditions for any city
+	•	Display temperature, humidity, wind speed, and weather descriptions
+	•	Dynamic weather icons
+	•	Responsive UI for all screen sizes
+	•	Error handling for invalid city names
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
