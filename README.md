@@ -8,7 +8,11 @@ Features
 	•	Dynamic weather icons
 	•	Responsive UI for all screen sizes
 	•	Error handling for invalid city names
-
+Technologies Used
+	•	Frontend Framework: React.js
+	•	Languages: HTML, CSS, JavaScript
+	•	API: OpenWeatherMap API
+	•	Tools: Axios (for API calls), dotenv (for API key management), VS Code
 
 
 
